@@ -1,0 +1,277 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    width: 80%;
+    margin: auto;
+    color: black;
+    margin-bottom: 56px;
+   
+}
+
+.imagem img  {
+    margin: auto;
+    width: 13rem;
+    border-radius: 15px;
+   
+   
+ 
+}
+.imagem {
+    width:35%;
+    margin: auto;
+    text-align: center;
+    
+   
+
+}
+
+
+.menu {
+ 
+
+ text-align: right;
+
+ 
+}
+
+.menu li {
+   display: inline-block;
+   padding: 5px;
+   list-style-type: none;
+
+   
+ 
+  
+
+   
+
+ 
+   
+}
+
+.menu a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px;
+    background-color: #c1bebe;
+    color: black;
+    border-radius: 15px;
+
+   
+}
+
+.menu a:hover {
+    background-color: black;
+    color: white;
+
+}
+
+h1 {
+ 
+    background-color:#33333344;
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid black;
+    padding: 12px;
+    
+}
+
+h2 {
+
+    background-color:#33333344;
+    border: 2px solid black;
+    font-size: 25px;
+    text-align: center;
+    padding: 12px;
+}
+ 
+
+ul {
+    padding-left: 0;
+ 
+}
+li {
+    list-style-position: inside;
+    padding: 3px;
+}
+ 
+ .center  {
+    text-align: center;
+    list-style-type: none;
+ } 
+
+ .objetivos {
+    text-align: center;
+ }
+
+
+ .dire {
+    margin: auto;
+    width: 50%;
+    background-color:#33333344;
+    border: 2px solid black;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 2rem;
+
+ }
+ .assistente {
+    text-align: center;
+    font-size: 15px;
+ }
+
+ .assistentep {
+    text-align:initial;
+ }
+ .Admpatr {
+    text-align: center;
+    font-size: 15px;
+
+ }
+
+ .coordlo {
+    text-align: center;
+    font-size: 15px;
+
+
+ }
+
+ .chefedes {
+    text-align: center;
+    font-size: 15px;
+
+ }
+ .chef {
+    margin: auto;
+    width: 50%;
+    background-color:#33333344;
+    border: 2px solid black;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 2rem;
+
+ }
+ .formacao {
+    text-align: center;
+    font-size: 15px;
+    
+ }
+ 
+ footer {
+    background-color:#33333344;
+    text-align: center;
+    
+
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*
+
+    body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         width: 80%;
+         margin: auto;
+         color: #444;
+         margin-bottom: 56px;
+    }
+
+    h1 {
+        background-color: #ccc;
+        color: #061761;
+        text-align: center;
+    }
+
+    h2 {
+        color: #061761;
+        background-color: #b6b6b6;
+        font-size: 36px;
+        border-bottom: 3px solid ;
+        padding: 10px;
+
+    }
+
+    ul {
+        padding-left: 0;
+    }
+
+    li {
+        list-style-position: inside ;
+    }
+   .center {
+     text-align: center;
+   }
+
+    a {
+        text-decoration: none;
+    }
+
+    .menu {
+        background-color: whitesmoke;
+        text-align: center;
+    }
+
+    .menu li {
+        list-style: none;
+        display: inline-block;
+        padding: 0px;
+        
+    }
+
+    .menu a {
+        background-color: #c1bebe;
+        padding: 16px ;
+        display: inline-block;
+    }
+
+    .menu a:hover {
+        background-color: rgba(105, 160, 160, 0.2);
+        color: #fff;
+    }
+
+*/
